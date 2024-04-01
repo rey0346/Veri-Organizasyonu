@@ -1,0 +1,14 @@
+Bir-Bire Çok Bağıntısı
+Ülke - Başkent Bağıntısı: Bir ülke birden fazla başkente sahip olabilir ancak her başkent yalnızca bir ülkeye aittir.                        
+Yazar - Kitap Bağıntısı: Bir yazar birden fazla kitap yazabilir, ancak her kitap bir yazarla ilişkilendirilir.
+Marka - Ürün Modeli Bağıntısı: Bir marka birden fazla ürün modeli üretebilir, ancak her ürün modeli yalnızca bir markaya aittir.
+
+Çoktan Çok bBağıntısı
+Kategori - Ürün Bağıntısı: Bir kategori birden fazla ürünü içerebilir ve bir ürün birden fazla kategoriyle ilişkilendirilebilir.
+Müşteri - Satış Temsilcisi Bağıntısı: Bir müşteriye birden fazla satış temsilcisi hizmet verebilir ve bir satış temsilcisi birden fazla müşteriyle ilgilenebilir.
+Öğretmen - Ders Bağıntısı: Bir öğretmen birden fazla derste görev alabilir ve bir ders birden fazla öğretmene ait olabilir.
+
+Bire-bir bağıntısı
+Öğrenci - Öğrenci Numarası Bağıntısı: Her öğrenciye bir numara atanır ve her numara yalnızca bir öğrenciye aittir.
+Kullanıcı - Kullanıcı Adı Bağıntısı: Her kullanıcıya benzersiz bir kullanıcı adı atanır ve her kullanıcı adı yalnızca bir kullanıcıya aittir.
+Ev Sahibi - Ev Bağıntısı: Her ev sahibi yalnızca bir eve sahip olabilir ve her ev yalnızca bir ev sahibine aittir.
